@@ -22,6 +22,7 @@ Complications including pneumonia and atelectasis can be developed in patients w
 * `ite` - предметы медобследования
 * `mic` - микроорганизмы
 * `dep` - отделение
+
 **Chinese Medical Information Extraction Dataset (CMeIE)** -  превращает предложения в триплеты. Но судя по всему это не те триплеты, что нам нужны в задаче:
 ``` json
 English:
